@@ -1,0 +1,5 @@
+<wearableApp package="io.mxapps.test713100">
+    <versionCode>2</versionCode>
+    <versionName>0.0.2</versionName>
+    <rawPathResId>wearable_app</rawPathResId>
+</wearableApp>
